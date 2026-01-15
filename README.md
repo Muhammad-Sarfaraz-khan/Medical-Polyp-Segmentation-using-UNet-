@@ -133,6 +133,3 @@ Implemented with Albumentations:
 
 ## License
 MIT License
-
-
-Do you want me to do that next?
